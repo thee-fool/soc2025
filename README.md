@@ -18,5 +18,5 @@ https://youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu&si=FB9SPZkM
 3. Recurrent neural Networks 
 https://youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr&si=NyWLSy7UpXnphe95
 
-
+opencv: https://youtu.be/oXlwWbU8l2o?feature=shared
 
