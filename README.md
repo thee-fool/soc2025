@@ -20,3 +20,5 @@ https://youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr&si=NyWLSy7U
 
 opencv: https://youtu.be/oXlwWbU8l2o?feature=shared
 
+Documentaion on facial recoginition - https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1643&context=etd_projects
+
